@@ -1,0 +1,13 @@
+C:\Users\Ganesh-pc\source\repos\StackApp\bin\Debug\netcoreapp3.1\StackApp.exe
+C:\Users\Ganesh-pc\source\repos\StackApp\bin\Debug\netcoreapp3.1\StackApp.deps.json
+C:\Users\Ganesh-pc\source\repos\StackApp\bin\Debug\netcoreapp3.1\StackApp.runtimeconfig.json
+C:\Users\Ganesh-pc\source\repos\StackApp\bin\Debug\netcoreapp3.1\StackApp.runtimeconfig.dev.json
+C:\Users\Ganesh-pc\source\repos\StackApp\bin\Debug\netcoreapp3.1\StackApp.dll
+C:\Users\Ganesh-pc\source\repos\StackApp\bin\Debug\netcoreapp3.1\StackApp.pdb
+C:\Users\Ganesh-pc\source\repos\StackApp\obj\Debug\netcoreapp3.1\StackApp.AssemblyInfoInputs.cache
+C:\Users\Ganesh-pc\source\repos\StackApp\obj\Debug\netcoreapp3.1\StackApp.AssemblyInfo.cs
+C:\Users\Ganesh-pc\source\repos\StackApp\obj\Debug\netcoreapp3.1\StackApp.csproj.CoreCompileInputs.cache
+C:\Users\Ganesh-pc\source\repos\StackApp\obj\Debug\netcoreapp3.1\StackApp.dll
+C:\Users\Ganesh-pc\source\repos\StackApp\obj\Debug\netcoreapp3.1\StackApp.pdb
+C:\Users\Ganesh-pc\source\repos\StackApp\obj\Debug\netcoreapp3.1\StackApp.genruntimeconfig.cache
+C:\Users\Ganesh-pc\source\repos\StackApp\obj\Debug\netcoreapp3.1\StackApp.csprojAssemblyReference.cache
